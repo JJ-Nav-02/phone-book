@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const url = 'https://phone-book-server-72j8.onrender.com/api/persons'
+const url = 'https://phone-book-server-i3ec.onrender.com/persons'
 
 const getAll = () => {
     const request = axios.get(url)
